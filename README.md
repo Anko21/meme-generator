@@ -1,3 +1,10 @@
+![1 meme](https://github.com/Anko21/meme-generator/assets/117990932/a31d4e58-1343-4925-9082-f130d2b5e025)
+![2 meme](https://github.com/Anko21/meme-generator/assets/117990932/797a81d0-6f15-4066-a8d1-594cf1c8bf72)
+![3 meme](https://github.com/Anko21/meme-generator/assets/117990932/846dc474-816f-4ce4-91ed-a7357cdb26b8)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
